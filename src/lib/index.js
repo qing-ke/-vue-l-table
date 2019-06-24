@@ -2,7 +2,6 @@ import LTable from './table.vue'
 
 // 注册组件
 LTable.install = Vue => Vue.component(LTable.name, LTable);
-console.log(LTable)
 
 // 标签的方式引入
 const install = function(Vue, opts = {}) {

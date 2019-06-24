@@ -103,7 +103,6 @@
         watch: {
             table: {
                 handler (val) {
-                    debugger
                     this.transformTableOption(val);
                     this.tableOption = this.transformTableOption(this.table);
                 },
