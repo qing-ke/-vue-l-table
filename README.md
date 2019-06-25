@@ -28,7 +28,7 @@ table额外参数
 | 参数名称 | 说明 | 类型 |
 | --- | --- | --- |
 | index | 开启序号 | boolean |
-| indexLabel | 序号台头,默认为序号 | string |
+| indexLabel | 序号抬头,默认为序号 | string |
 
 
 ###example###
